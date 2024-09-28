@@ -1,4 +1,4 @@
-#ZenOS
+# ZenOS
 
 ZenOS is an Operating System with native WebAssembly support.
 
